@@ -70,7 +70,7 @@ Criar um endpoint para trazer os 10 clientes com maior risco de saúde, no qual 
 - acessar o diretório do projeto:
 
   ```
-  cd teste-dev-backend/dev
+  cd teste-dev-backend
   ```
 
 - Instalar as dependências:
